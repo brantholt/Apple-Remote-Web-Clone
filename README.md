@@ -6,4 +6,4 @@ This web remote skin mimicks the look and feel of the Apple Remote and can be cu
 Screenshot
 ==========
 
-![Alt text](screenshots/Mobile - Button Pressed.png "Apple Remote Web Clone Screenshot")
+![ScreenShot](screenshots/Mobile - Button Pressed.png "Apple Remote Web Clone Screenshot")
